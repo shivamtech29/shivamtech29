@@ -1,13 +1,13 @@
 ### Nice to see you here 👋
 
-#### 🔭 Explore my Work in repos or read about me below 😄
+#### 🔭 Explore my Work in [repos](https://github.com/shivamtech29?tab=repositories) or read about me below 😄
 
 - 💬
 Developing tech applications and aiming to solve problems for personal, team aspects and business use cases.
 - Working towards making the development and overall process easier by collaborative development and solve complex scenarios in an easy yet effective way. 
 - On a journey to live a healthy and peaceful life full of adventures, explorations and enough work to keep me busy to learn and earn.
 
-📫 You have scrolled down till here. I appreciate that. Let's connect and grow together 👯
+📫 You read all the way till here. I really appreciate that. Let's connect and grow together 👯
 - Email: [Email](mailto:shivamagarwal36029@gmail.com)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/shivam-agarwal-profile)
 - Twitter: [Twitter](https://twitter.com/Agarwal__Shivam)
